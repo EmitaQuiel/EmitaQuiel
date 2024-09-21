@@ -12,3 +12,10 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/> 
 </p>
+
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/EmitaQuiel">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=EmitaQuiel&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmitaQuiel&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
