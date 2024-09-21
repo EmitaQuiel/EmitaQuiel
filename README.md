@@ -19,11 +19,13 @@
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmitaQuiel&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
+
 <div align="right">
   <a href="https://github.com/EmitaQuiel">
-    <img src="https://metrics.lecoq.io/insights/EmitaQuiel"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EmitaQuiel&bg_color=000000&color=FFFFFF&line=00E676&point=FFFFFF&area=true&hide_border=true"/>
   </a>
 </div>
+
 
 
 <div align="center"> 
