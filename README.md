@@ -18,7 +18,7 @@
   <a href="https://github.com/EmitaQuiel">
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmitaQuiel&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
-      <a><img style="width: 180px;" src="https://i.pinimg.com/originals/0a/d5/bb/0ad5bb032b0d35e4f27edcd713e67614.gif" /></a>
+      <a><img style="width: 190px;" src="https://i.pinimg.com/originals/0a/d5/bb/0ad5bb032b0d35e4f27edcd713e67614.gif" /></a>
 </div>
 
 <div align="center"> 
