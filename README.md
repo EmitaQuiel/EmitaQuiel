@@ -20,12 +20,11 @@
   </a>
 </div>
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/EmitaQuiel">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EmitaQuiel&bg_color=000000&color=FFFFFF&line=00E676&point=FFFFFF&area=true&hide_border=true"/>
+    <img src="https://github.com/EmitaQuiel/EmitaQuiel/blob/output/github-contribution-grid-snake.svg"/>
   </a>
 </div>
-
 
 
 <div align="center"> 
