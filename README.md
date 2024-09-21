@@ -21,9 +21,7 @@
 </div>
 
 <div align="left">
-  <a href="https://github.com/EmitaQuiel">
-    <img src="https://github.com/EmitaQuiel/EmitaQuiel/blob/output/github-contribution-grid-snake.svg"/>
-  </a>
+  <img src="https://i.pinimg.com/originals/0a/d5/bb/0ad5bb032b0d35e4f27edcd713e67614.gif" />
 </div>
 
 
