@@ -21,7 +21,7 @@
 </div>
 <div align="right">
   <a href="https://github.com/EmitaQuiel">
-    <img src="https://metrics.lecoq.io/EmitaQuiel"/>
+    <img src="(https://metrics.lecoq.io/insights/EmitaQuiel)"/>
   </a>
 </div>
 
