@@ -19,6 +19,11 @@
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmitaQuiel&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
+<div align="right">
+  <a href="https://wakatime.com/@EmitaQuiel">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmitaQuiel&theme=one_dark_pro"/>
+  </a>
+</div>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/cristinanevesb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
