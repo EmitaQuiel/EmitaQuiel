@@ -4,16 +4,16 @@
         alt="Typing SVG"
     /></a>
     <h2>Tecnologias con las que he trabajado</h2>
-<p style="display: flex;">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-      <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-      <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-      <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/>
-      <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
-      <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
-      <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/> 
-      <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
-</p>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" />
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" />
+</div>
 
 <div align="rigth" style="display: flex; justify-content: center;">
   <a href="https://github.com/EmitaQuiel">
