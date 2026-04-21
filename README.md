@@ -4,15 +4,15 @@
         alt="Typing SVG"
     /></a>
     <h2>Tecnologias con las que he trabajado</h2>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" />
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" />
-  <img width="48" height="48" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" />
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="48" />
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" />
+  <img src="https://img.icons8.com/fluency/48/css3.png" width="48" />
+  <img src="https://img.icons8.com/color/48/visual-studio--v2.png" width="48" />
+  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="48" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="48" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" />
+  <img src="https://img.icons8.com/color/48/bootstrap--v2.png" width="48" />
 </div>
 
 <div align="rigth" style="display: flex; justify-content: center;">
